@@ -1,6 +1,6 @@
 {
   "name": "react-employee-directory",
-  "homepage": "https://yarocruz.github.io/react-employee-directory",
+  "homepage": "https://github.com/esmailmb/react-employee-directory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,7 +10,7 @@
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^3.4.3"
   },
   "scripts": {
     "predeploy": "npm run build",
