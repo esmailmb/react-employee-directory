@@ -10,7 +10,6 @@ function Header() {
                    {/* <img className="mr-3" src={logo} alt="UCF School Logo"/> */}
                     <h1 className="font-bold">React Employee Directory</h1>
                 </div>
-                <a href="https://github.com/yarocruz/react-employee-directory" className="hover:text-yellow-500">Code</a>
             </header>
         </div>
     )
