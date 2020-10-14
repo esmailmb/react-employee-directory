@@ -1,6 +1,5 @@
 {
   "name": "react-employee-directory",
-  "homepage": "https://github.com/esmailmb/react-employee-directory",
   "version": "0.1.0",
   "engines": {
     "node": "12.x"
@@ -17,7 +16,6 @@
     "tailwindcss": "^1.4.5"
   },
   "scripts": {
-    "predeploy": "npm run build",
     "start": "npm run watch:css && react-scripts start",
     "build": "npm run build:css && react-scripts build",
     "test": "react-scripts test",
