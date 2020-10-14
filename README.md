@@ -23,9 +23,9 @@ Feel free to clone or fork this repo if you find it useful. To install dependenc
 npm i
 ```
 
-## Demo
+## Deployment
 
-You can see a demo of this app [here](https://react-user-directory-esmail.herokuapp.com/)
+You can see a deployed app click [here](https://react-user-directory-esmail.herokuapp.com/)
 
 ## Contributing
 
