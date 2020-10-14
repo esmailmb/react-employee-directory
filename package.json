@@ -13,7 +13,8 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3",
-    "postcss-cli": "^7.1.1"
+    "postcss-cli": "^7.1.1",
+    "tailwindcss": "^1.4.5"
   },
   "scripts": {
     "predeploy": "npm run build",
