@@ -1,7 +1,7 @@
 # Employee Directory
  #### Demo
  
- [here](https://react-user-directory-esmail.herokuapp.com/)
+ [here](https://github.com/esmailmb/react-employee-directory/blob/master/Demo.gif)
 
 ## Description
 
