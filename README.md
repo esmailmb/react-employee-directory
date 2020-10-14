@@ -1,7 +1,7 @@
 # Employee Directory
  #### Demo
  
- [here](https://github.com/esmailmb/react-employee-directory/blob/master/Demo.gif)
+ To See Demo Click [here](https://github.com/esmailmb/react-employee-directory/blob/master/Demo.gif)
 
 ## Description
 
