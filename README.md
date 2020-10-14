@@ -1,6 +1,7 @@
 # Employee Directory
- #### [Demo](https://github.com/esmailmb/react-employee-directory)
-![Budget Tracker Screenshot]()
+ #### [Demo]
+ 
+ See Demo File provided
 
 ## Description
 
