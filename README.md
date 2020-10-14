@@ -1,7 +1,7 @@
 # Employee Directory
- #### [Demo]
+ #### Demo
  
- See Demo File provided
+ [here](https://react-user-directory-esmail.herokuapp.com/)
 
 ## Description
 
@@ -25,7 +25,7 @@ npm i
 
 ## Demo
 
-You can see a demo of this app [here](https://github.com/esmailmb/react-employee-directory)
+You can see a demo of this app [here](https://react-user-directory-esmail.herokuapp.com/)
 
 ## Contributing
 
