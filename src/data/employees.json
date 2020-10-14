@@ -2,7 +2,7 @@
   {
     "id": 1,
     "image": "https://randomuser.me/api/portraits/women/90.jpg",
-    "name": "Lisa Simpson",
+    "name": "Gary Malie",
     "department": "Sales",
     "email": "lissimp@email.com",
     "phone": "555-321-2345"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "image": "https://randomuser.me/api/portraits/men/90.jpg",
-    "name": "Troy McGibbons",
+    "name": "Philip Dougar",
     "department": "Engineering",
     "email": "troydog@email.com",
     "phone": "555-012-3456"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "image": "https://randomuser.me/api/portraits/women/77.jpg",
-    "name": "Sandra Lopez",
+    "name": "Jennifer Lola",
     "department": "Design",
     "email": "salola@email.com",
     "phone": "555-456-7890"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "image": "https://randomuser.me/api/portraits/men/35.jpg",
-    "name": "Tyler Durden",
+    "name": "Tika Morgan",
     "department": "Logistics",
     "email": "projectmayhem@email.com",
     "phone": "555-654-9876"
